@@ -1,0 +1,10 @@
+/node_modules
+.idea
+package-lock.json
+src/route.js
+dist
+*.vim
+*.log
+e2e/report/*
+coverage
+CHANGELOG.md
